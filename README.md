@@ -1,2 +1,2 @@
 # HomeKitSwitch
-YouTue https://www.youtube.com/watch?v=QFprNkyYquM
+YouTube https://www.youtube.com/watch?v=QFprNkyYquM
